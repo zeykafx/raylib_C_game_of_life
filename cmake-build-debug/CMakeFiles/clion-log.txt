@@ -1,0 +1,4 @@
+C:\WINDOWS\system32\wsl.exe --distribution Ubuntu --exec /bin/bash -l -c "export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/c/Users/coren/Code/raylib_conway_gol/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=make -DCMAKE_C_COMPILER=gcc -G 'CodeBlocks - Unix Makefiles' -S /mnt/c/Users/coren/Code/raylib_conway_gol -B /mnt/c/Users/coren/Code/raylib_conway_gol/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/coren/Code/raylib_conway_gol/cmake-build-debug

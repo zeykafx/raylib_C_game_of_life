@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/coren/Code/raylib_conway_gol/sources/cell.c
+cell.h
+/mnt/c/Users/coren/Code/raylib_conway_gol/sources/cell.h
+errno.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/mnt/c/Users/coren/Code/raylib_conway_gol/sources/cell.h
+stdbool.h
+-
+

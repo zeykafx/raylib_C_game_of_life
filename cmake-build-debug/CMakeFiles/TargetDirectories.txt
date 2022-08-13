@@ -1,0 +1,3 @@
+/mnt/c/Users/coren/Code/raylib_conway_gol/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/coren/Code/raylib_conway_gol/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/coren/Code/raylib_conway_gol/cmake-build-debug/CMakeFiles/raylib_tests.dir
