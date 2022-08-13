@@ -1,5 +1,0 @@
-# ninja log v5
-6	275	6820219089074831	CMakeFiles/raylib_tests.dir/sources/cell.c.obj	40190226fb93b44c
-1	324	6820219089525795	CMakeFiles/raylib_tests.dir/sources/main.c.obj	55c903e56426731a
-12	417	6820219090537409	CMakeFiles/raylib_tests.dir/sources/board.c.obj	200af9008cb99d63
-418	718	6820219093475035	raylib_tests.exe	fb9830bc27bc899

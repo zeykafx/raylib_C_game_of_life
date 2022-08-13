@@ -1,3 +1,0 @@
-C:/Users/coren/Code/raylib_conway_gol/cmake-build-release-mingw/CMakeFiles/raylib_tests.dir
-C:/Users/coren/Code/raylib_conway_gol/cmake-build-release-mingw/CMakeFiles/edit_cache.dir
-C:/Users/coren/Code/raylib_conway_gol/cmake-build-release-mingw/CMakeFiles/rebuild_cache.dir

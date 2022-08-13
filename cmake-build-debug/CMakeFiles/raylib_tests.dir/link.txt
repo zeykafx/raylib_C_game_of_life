@@ -1,1 +1,0 @@
-/usr/bin/gcc -g   CMakeFiles/raylib_tests.dir/sources/main.c.o CMakeFiles/raylib_tests.dir/sources/cell.c.o CMakeFiles/raylib_tests.dir/sources/board.c.o  -o raylib_tests   -L/mnt/c/Users/coren/Code/raylib_conway_gol/lib  -Wl,-rpath,/mnt/c/Users/coren/Code/raylib_conway_gol/lib -lraylib -lwinmm.lib 

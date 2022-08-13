@@ -1,4 +1,0 @@
-C:\Users\coren\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3345.126\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/coren/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/ninja/win/ninja.exe -G Ninja -S C:\Users\coren\Code\raylib_conway_gol -B C:\Users\coren\Code\raylib_conway_gol\cmake-build-debug-mingw
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/coren/Code/raylib_conway_gol/cmake-build-debug-mingw
